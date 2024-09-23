@@ -1,2 +1,0 @@
-# manish
-mera project
